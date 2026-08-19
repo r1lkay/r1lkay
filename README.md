@@ -1,3 +1,5 @@
+<img width="1219" height="419" alt="Frame 10" src="https://github.com/user-attachments/assets/17cfaa82-2b1a-4f13-9f84-4ebcfbecd348" />
+
 # 💫 About Me:
 Just beginner dev
 
