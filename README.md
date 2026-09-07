@@ -1,4 +1,4 @@
-<img width="1219" height="419" alt="Frame 10" src="https://github.com/user-attachments/assets/1d11078f-b324-40b1-acb8-61652c95a584" />
+<img width="1200" height="400" alt="Frвыame 14" src="https://github.com/user-attachments/assets/ee1a03cb-e156-47a1-aa3a-a3d1696e6c85" />
 
 # 💫 About Me:
 Just beginner dev. Mainly code bots for Discord & Telegram. Also make plugins for Minecraft.
