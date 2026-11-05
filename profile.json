@@ -8,13 +8,13 @@
   "iconFill": true,
   "order": [
     "hero",
-    "socials",
     "about",
     "stack",
     "projects",
     "stats",
     "streak",
     "wave",
+    "socials",
     "buttons"
   ],
   "hidden": [
@@ -137,20 +137,17 @@
     "items": [
       {
         "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "url": "https://t.me/rilkay"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
-      },
-      {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:spotify",
+        "url": "https://open.spotify.com/user/314x373xpzqmcwdte2zgazpjh6r4?si=f3ef8a2a95824ba4"
       }
     ],
     "variant": "chip",
     "fill": "tonal",
-    "card": true
+    "card": true,
+    "shape": "soft"
   },
   "buttons": {
     "items": [
