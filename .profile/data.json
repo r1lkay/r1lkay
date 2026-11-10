@@ -1,5 +1,5 @@
 {
- "key": "ccb5de93",
+ "key": "22530f3d",
  "stars": 0,
  "contributions": 31,
  "repos": 4,
@@ -94,9 +94,13 @@
    {
     "c": 0,
     "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
     "today": true
    },
-   null,
    null,
    null,
    null,
